@@ -69,7 +69,10 @@ border: 1px solid rosybrown;
 background-color: aqua;
 border: 1px solid aqua;
 }
-
+#images{
+    display: inline-block;
+    
+}
 /*fifthCase*/
 
 #sec-hidden{

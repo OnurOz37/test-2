@@ -32,13 +32,31 @@ let liens = document.querySelectorAll('.lien');
             
 
 //         }
+let afficherLeTri = document.getElementById('hidden');
+let desactiverImage= document.getElementById('images');
 [].forEach.call(liens, function(li){
     li.addEventListener('click', function(){
         liens.forEach(l => {
             l.classList.remove('lien')
             l.classList.add('inactive')
+            afficherLeTri.style.display='block';
+
         })
         li.classList.remove('inactive')
         li.classList.add('lien')
+        desactiverImage.style.display='none';
+        // l.classList.remove('image')
+        
+        
     })
 })
+
+// let liens = document.querySelectorAll('.lien');
+
+// [].forEach.call(liens, function(list){
+//     list.addEventListener('click', function(){
+//         liens.forEach(lis => {
+//             lis.classList.remove('image')
+//         })
+//     })
+// })
