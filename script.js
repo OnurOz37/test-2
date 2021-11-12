@@ -1,6 +1,7 @@
 let afficherCinquiemeCase = document.getElementById('sec-hidden');
 
 let cases= document.querySelectorAll('.active');
+let afficherLeTri = document.getElementById('hidden');
 // .forEach(Case=>Case.addEventListener('click', myFunction));
 
 //let liens = document.querySelectorAll('.lien');
@@ -18,7 +19,8 @@ let cases= document.querySelectorAll('.active');
         ev.classList.remove('inactive')
         ev.classList.add('active')
         
-        afficherCinquiemeCase.style.display='block'; 
+        afficherCinquiemeCase.style.display='block'
+        afficherLeTri.style.display='block'
     })
 })
 
@@ -32,14 +34,14 @@ let liens = document.querySelectorAll('.lien');
             
 
 //         }
-let afficherLeTri = document.getElementById('hidden');
+// let afficherLeTri = document.getElementById('hidden');
 let desactiverImage= document.getElementById('images');
 [].forEach.call(liens, function(li){
     li.addEventListener('click', function(){
         liens.forEach(l => {
             l.classList.remove('lien')
             l.classList.add('inactive')
-            afficherLeTri.style.display='block';
+            // afficherLeTri.style.display='block';
 
         })
         li.classList.remove('inactive')
