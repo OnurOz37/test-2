@@ -69,8 +69,11 @@ border: 1px solid rosybrown;
 background-color: aqua;
 border: 1px solid aqua;
 }
-#images{
+#hidden{
     display: inline-block;
+}
+#hidden-auteur{
+    display: none;
     
 }
 /*fifthCase*/

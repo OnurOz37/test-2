@@ -1,7 +1,7 @@
-let afficherCinquiemeCase = document.getElementById('sec-hidden');
+var afficherCinquiemeCase = document.getElementById('sec-hidden');
 
 let cases= document.querySelectorAll('.active');
-let afficherLeTri = document.getElementById('hidden');
+var afficherLeTri = document.getElementById('hidden');
 // .forEach(Case=>Case.addEventListener('click', myFunction));
 
 //let liens = document.querySelectorAll('.lien');
@@ -36,6 +36,8 @@ let liens = document.querySelectorAll('.lien');
 //         }
 // let afficherLeTri = document.getElementById('hidden');
 let desactiverImage= document.getElementById('images');
+let afficherAuteur = document.getElementById('hidden-auteur');
+
 [].forEach.call(liens, function(li){
     li.addEventListener('click', function(){
         liens.forEach(l => {
@@ -46,7 +48,9 @@ let desactiverImage= document.getElementById('images');
         })
         li.classList.remove('inactive')
         li.classList.add('lien')
-        desactiverImage.style.display='none';
+        
+        afficherLeTri.style.display='none'
+        afficherAuteur.style.display='block'
         // l.classList.remove('image')
         
         
