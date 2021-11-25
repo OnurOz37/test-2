@@ -1,0 +1,72 @@
+﻿Clefs,Name,Domaines,Cibles,Node,Pôles
+DEVELOPPER/FINANCER/ACCOMPAGNER,Financement d’un projet cinéma,IMAGE,"AUTEUR, DEBUTANT",62238,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Accompagner et soutenir un projet en librairie,LIVRE,LIBRAIRE,6635,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Ressources professionnelles Livre,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, EDITEUR, FESTIVAL, LIBRAIRE, MEDIATEUR, PARTICULIER",6315,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Accompagner et soutenir une maison d'édition,LIVRE,EDITEUR,174,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Accompagner et financer un accueil d'auteur,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, ETABLISSEMENT SCOLAIRE, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR",172,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Offres d'emploi dans le secteur du livre,LIVRE,"BIBLIOTHEQUE/MEDIATHEQUE, LIBRAIRE, MEDIATEUR, PARTICULIER",6316,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Appels à projets dans le secteur du livre,LIVRE,"AUTEUR, EDITEUR, ETUDIANT, MEDIATEUR",6204,LIVRE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Résidence de création - Créer à partir des films amateurs,IMAGE,"AUTEUR, STRUCTURE DE PRODUTION",51951,PATRIMOINE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Collecter et Conserver - Sauvegarde du patrimoine audiovisuel amateur,IMAGE,"COLLECTIVITE/INSTITUTION, PARTICULIER",217,PATRIMOINE
+TRANSMETTRE/FORMER,Upopi - Cours de cinéma en ligne,IMAGE,"DEBUTANT, ENSEIGNANT, ETUDIANT, MEDIATEUR, PARTICULIER",5854,EDUC
+TRANSMETTRE/FORMER,La formation des acteurs du livre,LIVRE,"AUTEUR, EDITEUR, LIBRAIRE",6321,LIVRE
+ORGANISER (rencontres / séances / ateliers ...),Organiser une manifestation littéraire,LIVRE,"BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR",6895,LIVRE
+ORGANISER (rencontres / séances / ateliers ...),Monter un projet de médiation numérique autour du livre,"IMAGE, LIVRE","BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, ENSEIGNANT, FESTIVAL, MEDIATEUR",41638,LIVRE
+ORGANISER (rencontres / séances / ateliers ...),Circuit court - Organisez votre séance de courts métrages,IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, CINEMA, COLLECTIVITE/INSTITUTION, FESTIVAL, LIEU CUTUREL",59320,DIFF/EXPL
+ORGANISER (rencontres / séances / ateliers ...),Mois du film documentaire - Organisez votre séance,IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, CINEMA, COLLECTIVITE/INSTITUTION, FESTIVAL, LIEU CUTUREL",169,DIFF/EXPL
+ORGANISER (rencontres / séances / ateliers ...),Découvrir le catalogue des films soutenus par Ciclic Centre-Val de Loire,IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, CINEMA, COLLECTIVITE/INSTITUTION, FESTIVAL, LIEU CUTUREL",24210,DIFF/EXPL
+ORGANISER (rencontres / séances / ateliers ...),"Louer le Cinémobile pour votre événement cinéma. ",IMAGE,"COLLECTIVITE/INSTITUTION, FESTIVAL, LIEU CUTUREL",5778,DIFF/EXPL
+ORGANISER (rencontres / séances / ateliers ...),Reprise d'archives - Organisez votre séance de films amateurs,IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, CINEMA, COLLECTIVITE/INSTITUTION, LIEU CUTUREL",41350,PATRIMOINE
+ORGANISER (rencontres / séances / ateliers ...),"Ciné-Valise - Organisez des projections de films amateurs ",IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, ETABLISSEMENT SCOLAIRE, LIEU CUTUREL",25240,PATRIMOINE
+"DECOUVRIR (livres / textes / films / archives ...), TRANSMETTRE/FORMER",Upopi - Des courts métrages à découvrir en ligne.,IMAGE,"DEBUTANT, ENSEIGNANT, ETUDIANT, MEDIATEUR, PARTICULIER",6392,EDUC
+DECOUVRIR (livres / textes / films / archives ...),"Découvrir des projets littéraires singuliers : Labo de création  ","IMAGE, LIVRE","AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, LIEU CUTUREL, MEDIATEUR, PARTICULIER",27397,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Les publications récentes des éditeurs et auteurs de la région,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, EDITEUR, ENSEIGNANT, ETABLISSEMENT SCOLAIRE, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR, PARTICULIER",59412,LIVRE
+"DECOUVRIR (livres / textes / films / archives ...), DEVELOPPER/FINANCER/ACCOMPAGNER",Connaître les professionnels du livre près de chez vous,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, EDITEUR, ENSEIGNANT, ETABLISSEMENT SCOLAIRE, ETUDIANT, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR, PARTICULIER",6199,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),S'inspirer d'une initiative en bibliothèque,LIVRE,"BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION",50494,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Découvrir les auteurs présents sur le territoire,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, EDITEUR, ETABLISSEMENT SCOLAIRE, FESTIVAL, LIBRAIRE, MEDIATEUR",6313,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Assister à un évènement littéraire,LIVRE,"AUTEUR, EDITEUR, ENSEIGNANT, ETUDIANT, PARTICULIER",6204,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Des enregistrements sonores et vidéos d'auteur,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, DEBUTANT, ETUDIANT, PARTICULIER",23413,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Découvrir la richesse de la bibliophilie contemporaine ou livres d'artiste,LIVRE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, EDITEUR, ENSEIGNANT, ETABLISSEMENT SCOLAIRE, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR, PARTICULIER",6324,LIVRE
+DECOUVRIR (livres / textes / films / archives ...),Cinémobile - Les films et les séances au programme près de chez vous,IMAGE,"COLLECTIVITE/INSTITUTION, ETABLISSEMENT SCOLAIRE, ETUDIANT, LIEU CUTUREL, PARTICULIER",667,DIFF/EXPL
+DECOUVRIR (livres / textes / films / archives ...),"Les séances scolaires dans le Cinémobile ",IMAGE,"COLLECTIVITE/INSTITUTION, ENSEIGNANT, ETABLISSEMENT SCOLAIRE",26745,DIFF/EXPL
+DECOUVRIR (livres / textes / films / archives ...),"Les séances et activités jeune public dans le Cinémobile ",IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, MEDIATEUR",668,DIFF/EXPL
+DECOUVRIR (livres / textes / films / archives ...),Mémoire - Des films amateurs en ligne,IMAGE,"AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, ENSEIGNANT, ETUDIANT, LIEU CUTUREL, PARTICULIER",452,PATRIMOINE
+DECOUVRIR (livres / textes / films / archives ...),Visite du pôle patrimoine - A la découverte du film amateur,IMAGE,"ENSEIGNANT, ETABLISSEMENT SCOLAIRE, ETUDIANT",1240,PATRIMOINE
+"DECOUVRIR (livres / textes / films / archives ...), ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au dispositif ""Lycéens et apprentis au cinéma en région Centre-Val de Loire",IMAGE,"CINEMA, ENSEIGNANT, ETABLISSEMENT SCOLAIRE",198,EDUC
+"DECOUVRIR (livres / textes / films / archives ...), ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au dispositif "" Collège au cinéma dans le Cher""",IMAGE,"CINEMA, ENSEIGNANT, ETABLISSEMENT SCOLAIRE",49142,EDUC
+"DECOUVRIR (livres / textes / films / archives ...), ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au dispositif ""Lycéens, apprentis, livres et auteurs d'aujourd'hui'",LIVRE,"ENSEIGNANT, ETABLISSEMENT SCOLAIRE, LIBRAIRE",24417,EDUC
+"DECOUVRIR (livres / textes / films / archives ...), ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au dispositif ""Jeunes en librairie""",LIVRE,"ENSEIGNANT, ETABLISSEMENT SCOLAIRE, LIBRAIRE",63195,EDUC
+"DECOUVRIR (livres / textes / films / archives ...), ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au dispositif ""Passeurs d'images""",IMAGE,"CINEMA, COLLECTIVITE/INSTITUTION, DEBUTANT, LIEU CUTUREL, MEDIATEUR, PARTICULIER",208,EDUC
+"ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER","Participer au programme "" Des regards, des images""",IMAGE,"BIBLIOTHEQUE/MEDIATHEQUE, CINEMA, COLLECTIVITE/INSTITUTION, DEBUTANT, ENSEIGNANT, ETABLISSEMENT SCOLAIRE, ETUDIANT, FESTIVAL, LIEU CUTUREL, MEDIATEUR",27032,EDUC
+"ORGANISER (rencontres / séances / ateliers ...), TRANSMETTRE/FORMER",Mettre en place un projet de Pratiques et enseignements artistiques en temps scolaire,IMAGE,"ENSEIGNANT, ETABLISSEMENT SCOLAIRE",194,EDUC
+"DECOUVRIR (livres / textes / films / archives ...), TRANSMETTRE/FORMER",UPOPI - Université POPulaire des Images,IMAGE,"DEBUTANT, ENSEIGNANT, ETUDIANT, MEDIATEUR, PARTICULIER",5846,EDUC
+TRANSMETTRE/FORMER,UPOPI - Parcours pédagogiques pour développer des ateliers en autonomie,IMAGE,"DEBUTANT, ENSEIGNANT, ETUDIANT, MEDIATEUR",6092,EDUC
+DEVELOPPER/FINANCER/ACCOMPAGNER,Bourses post-études en partenariat avec La Poudrière,IMAGE,"AUTEUR, ETUDIANT",47314,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Bourse première œuvre de court métrage,IMAGE,"AUTEUR, DEBUTANT",41813,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Appel à projets de courts métrages 2021,IMAGE,"AUTEUR, DEBUTANT",39499,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,"Soutien à l'écriture de documentaires audiovisuels ",IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",151,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Aide aux parcours d'auteurs,IMAGE,AUTEUR,63156,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,"Résidence Patrimoine ",IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",51951,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Accompagnements individualisés,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR, TECHNICIEN",54278,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Accompagnements collectifs annuels 2022,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR, TECHNICIEN",64814,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,"Soutien à l'écriture, réécriture, développement premier et deuxième long métrage",IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",144,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Aide au co-développement international de longs métrages,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",37721,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Aide au développement long métrage d'animation,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",31788,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Aides à la production court métrage d'animation,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",31786,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Aide après réalisation de court métrage,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",45389,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien à la création de musique originale de court métrage,IMAGE,"AUTEUR, COMPOSITEURS, DEBUTANT, PRODUCTEUR",148,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien au développement de films documentaires audiovisuels,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",37715,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Contrat d'Objectifs et de Moyens avec les télévisions régionales,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",37860,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Aide au développement série et spécial télé,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",31789,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien à la production de documentaires audiovisuels,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",149,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien au co-développement international de fictions TV,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",152,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien à la production de fictions TV,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",152,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Accompagnement à l'international,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",62250,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Accompagnement aux tournages en Région Centre-Val de Loire,IMAGE,"PRODUCTEUR, TECHNICIEN",53540,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Informations sur les tournages à venir en Région Centre-Val de Loire,IMAGE,TECHNICIEN,53539,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Apprendre à s'inscrire sur la Base Film France Talents,IMAGE,TECHNICIEN,52163,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Les Ateliers Ciclic,IMAGE,"AUTEUR, DEBUTANT",62004,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",La Bourse Post étude Producteurs,IMAGE,"DEBUTANT, PRODUCTEUR",54332,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,L'aide au programme d'entreprise,IMAGE,"DEBUTANT, PRODUCTEUR",154,IMAGE
+"DEVELOPPER/FINANCER/ACCOMPAGNER, TRANSMETTRE/FORMER",Calendrier des aides sélectives 2022,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",64814,IMAGE
+DEVELOPPER/FINANCER/ACCOMPAGNER,Soutien au développement international de projets audiovisuels avec le Canada,IMAGE,"AUTEUR, DEBUTANT, PRODUCTEUR",65502,IMAGE

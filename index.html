@@ -4,18 +4,23 @@
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> CICLIC</title>
+        <title>CICLIC</title>
         <link rel="stylesheet" href="style.css">
         <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
-        <script src="jQuery/jquery-3.6.0.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <!-- <script src="scripts/require.js"></script> -->
+        
+        <!-- <script src="jquery-3.6.0.min.js"></script>
+        <script src="scriptjQuery.js"></script> -->
 
     </head>
 
     <body>
+
         <div id="main-div">
             <div class="cases">
                 <div id="first-case" class="toggle active" data="" >
-                    <h4><span class="gras">JE VEUX</span> DÉVELOPPER <span class="gras">UN PROJET</span></h4>
+                    <h4 id="test"><span class="gras">JE VEUX</span> DÉVELOPPER <span class="gras">UN PROJET</span></h4>
                     <p>(LES AIDES ET ACCOMPAGNEMENTS LIVRE & IMAGE)</p>
                 </div>
                 
@@ -32,18 +37,20 @@
                     <p>(ICI UN SOUS-TITRE ICI UN SOUS-TITRE ICI UN TITRE)</p>
                 </div>
 
+                
+
         </div>
 
         <div id="sec-hidden">
             <div id="fifth-case">
                 <div class="mid-sec">
                     <H5>VOUS ÊTES: </H5>
-                    <a class="lien">AUTEUR</a>
-                    <a class="lien">PRODUCTEUR</a>
-                    <a class="lien">TECHNICIEN</a>
-                    <a class="lien">DEBUTANT</a>
-                    <a class="lien">LIBRAIRE</a>
-                    <a class="lien">EDITEUR</a>
+                    <a id="autor" class="lien aut">AUTEUR</a>
+                    <a id="autor" class="lien pro">PRODUCTEUR</a>
+                    <a id="autor" class="lien tec">TECHNICIEN</a>
+                    <a id="autor" class="lien beg">DEBUTANT</a>
+                    <a id="autor" class="lien lib">LIBRAIRE</a>
+                    <a id="autor" class="lien edi">EDITEUR</a>
                 </div>
                 <div class="third-sec">
                     <H5>VOTRE DOMAINE: </H5> 
@@ -59,19 +66,19 @@
         <div id="hidden">
             <div id="second-part">
                 <ul >
-                            <li class="arrow">FINANCEMENT D'UN PROJET CINÉMA <a class="lien">AUTEUR</a> <a  class="images">IMAGE</a></li>
-                            <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien">PRODUCTEUR</a> <a  class="images">IMAGE</a></li>
-                            <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien">DEBUTANT</a> <a  class="images">IMAGE</a></li>
-                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL  <a class="lien">AUTEUR</a> <a  class="images">IMAGE</a></li>
-                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien">PRODUCTEUR</a> <a  class="images">IMAGE</a></li>
-                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien">DEBUTANT</a> <a class="images">IMAGE</a></li>
-                            <li >SOUTIEN AUX AUTEURS ASSOCIÉS <a class="lien">AUTEUR</a> <a class="livre">LIVRE</a></li>
-                            <li >SOUTIEN AUX RÉSEDENCES D'AUTEURS <a class="lien">AUTEUR</a> <a  class="livre">LIVRE</a></li>
-                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE LIBRAIRIE ET AUX POINTS DE VENTE DU LIVRE <a class="lien">LIBRAIRE</a> <a class="livre">LIVRE</a></li>
-                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE STRUCTURE DE PRODUCTION  <a class="lien">PRODUCTEUR</a> <a  class="images">IMAGE</a> </li>
-                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE D'ÉDITION DE LIVRES IMPRIMÉS OU NUMÉRIQUES <a class="lien">EDITEUR</a> <a  class="livre">LIVRE</a></li>
-                            <li >ACCOMPAGNEMENTS PROFESSIONNELS-INDIVIDUEL <a class="lien">AUTEUR</a>  <a class="lien">TECHNICIEN</a> <a  class="images">IMAGE</a></li>
-                            <li >ACCOMPAGNEMENTS PROFESSIONNELS-COLLECTIF <a class="lien">PRODUCTEUR</a> <a class="lien">EDITEUR</a>  <a  class="images">IMAGE</a><a href="" class="livre">LIVRE</a></li>
+                            <li class="arrow">FINANCEMENT D'UN PROJET CINÉMA <a class=" lien aut">AUTEUR</a> <a  class="image ">IMAGE</a></li>
+                            <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien pro">PRODUCTEUR</a> <a  class="image ">IMAGE</a></li>
+                            <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien beg">DEBUTANT</a> <a  class="image ">IMAGE</a></li>
+                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL  <a class="lien aut">AUTEUR</a> <a  class="image ">IMAGE</a></li>
+                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien pro">PRODUCTEUR</a> <a  class="image ">IMAGE</a></li>
+                            <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien beg">DEBUTANT</a> <a class="image ">IMAGE</a></li>
+                            <li >SOUTIEN AUX AUTEURS ASSOCIÉS <a class="lien aut">AUTEUR</a> <a class="livre">LIVRE</a></li>
+                            <li >SOUTIEN AUX RÉSEDENCES D'AUTEURS <a class="lien aut">AUTEUR</a> <a  class="livre">LIVRE</a></li>
+                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE LIBRAIRIE ET AUX POINTS DE VENTE DU LIVRE <a class="lien lib">LIBRAIRE</a> <a class="livre">LIVRE</a></li>
+                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE STRUCTURE DE PRODUCTION  <a class="lien pro">PRODUCTEUR</a> <a  class="images">IMAGE</a> </li>
+                            <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE D'ÉDITION DE LIVRES IMPRIMÉS OU NUMÉRIQUES <a class="lien edi">EDITEUR</a> <a  class="livre">LIVRE</a></li>
+                            <li >ACCOMPAGNEMENTS PROFESSIONNELS-INDIVIDUEL <a class="lien aut">AUTEUR</a>  <a class="lien tec">TECHNICIEN</a> <a  class="image">IMAGE</a></li>
+                            <li >ACCOMPAGNEMENTS PROFESSIONNELS-COLLECTIF <a class="lien pro">PRODUCTEUR</a> <a class="lien edi">EDITEUR</a>  <a  class="image">IMAGE</a><a href="" class="livre">LIVRE</a></li>
                 </ul>
     
             </div>
@@ -80,25 +87,64 @@
         <div id="hidden-auteur">
             <div class="auteur">
                 <ul >
-                    <li class="arrow">FINANCEMENT D'UN PROJET CINÉMA <a class="lien">AUTEUR</a> <a  class="images">IMAGE</a></li>
-                    
-                    
+                    <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien">AUTEUR</a> <a  class="images">IMAGE</a></li>
                     <li >FINANCEMENT D'UN PROJET AUDIOVISUEL  <a class="lien">AUTEUR</a> <a  class="images">IMAGE</a></li>
-                    
                     <li >SOUTIEN AUX AUTEURS ASSOCIÉS <a class="lien">AUTEUR</a> <a class="livre">LIVRE</a></li>
                     <li >SOUTIEN AUX RÉSEDENCES D'AUTEURS <a class="lien">AUTEUR</a> <a  class="livre">LIVRE</a></li>
-                    
-                    
-                    
                     <li >ACCOMPAGNEMENTS PROFESSIONNELS-INDIVIDUEL <a class="lien">AUTEUR</a>  <a class="lien">TECHNICIEN</a> <a  class="images">IMAGE</a></li>
                     
                 </ul>
             </div>
             
         </div>
+        <div id="hidden-productor">
+            <div class="productor">
+                <ul >
+                    <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien">PRODUCTEUR</a> <a  class="images">IMAGE</a></li>
+                    <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE STRUCTURE DE PRODUCTION  <a class="lien">PRODUCTEUR</a> <a  class="images">IMAGE</a> </li>
+                    <li >ACCOMPAGNEMENTS PROFESSIONNELS-COLLECTIF <a class="lien">PRODUCTEUR</a> <a class="lien">EDITEUR</a>  <a  class="images">IMAGE</a><a href="" class="livre">LIVRE</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div id="hidden-beginner">
+            <div class="beginner">
+                <ul >
+                    <li >FINANCEMENT D'UN PROJET CINÉMA <a class="lien">DEBUTANT</a> <a  class="images">IMAGE</a></li>
+                    <li >FINANCEMENT D'UN PROJET AUDIOVISUEL <a class="lien">DEBUTANT</a> <a class="images">IMAGE</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div id="hidden-tecnicien">
+            <div class="tecnicien">
+                <ul >
+                    <li >ACCOMPAGNEMENTS PROFESSIONNELS-INDIVIDUEL <a class="lien">AUTEUR</a>  <a class="lien">TECHNICIEN</a> <a  class="images">IMAGE</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div id="hidden-library">
+            <div class="library">
+                <ul >
+                    <li >SOUTIEN ÉCONOMIQUE A L'ENTREPRISE LIBRAIRIE ET AUX POINTS DE VENTE DU LIVRE <a class="lien">LIBRAIRE</a> <a class="livre">LIVRE</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div id="hidden-editor">
+            <div class="editor">
+                <ul >
+                    <li >ACCOMPAGNEMENTS PROFESSIONNELS-COLLECTIF <a class="lien">PRODUCTEUR</a> <a class="lien">EDITEUR</a>  <a  class="images">IMAGE</a><a href="" class="livre">LIVRE</a></li>
+                </ul>
+            </div>
+            
+        </div>
         
-
-
-        <script src="script.js"></script>
+    
+        
+        <script src="scripts/script.js"></script>
+        
+        
     </body>
 </html>

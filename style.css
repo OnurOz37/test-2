@@ -6,16 +6,16 @@ body{
 #main-div{
     
     margin: auto;
-    
+    padding: 0 17%;
 }
 
 .cases{
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    margin: 0 17%;
+   /* margin: 0 17%;*/
     flex-wrap: wrap;
-   
+
 }
 
 #first-case, #second-case, #third-case, #fourth-case{
@@ -86,10 +86,10 @@ display: none;
 #fifth-case{
 display: flex;
 justify-content: space-between;
-margin: 0 380px;
+/*margin: 0 380px;*/
 white-space: nowrap;
 border-bottom: 1px solid black;
-
+margin: 0 2,5%;
 }
 .mid-sec{
 display: flex;
@@ -163,12 +163,56 @@ ul{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-size: 13px;
+}
+ul li{
+    align-items: center;
+}
+ul li a{
+    margin: 0.25% 0.25%;
 }
 #second-part{
     display: flex;
     flex-direction: column;
 }
-
+/* #second-part ul li{
+    display: flex;
+    align-items: space-between;
+} */
+#second-part a{
+    display: flex;
+    /* border: 1
+px
+ solid rgb(91, 243, 91); */
+    margin: 0 1%;
+    border-radius: 20px;
+    justify-content: center;
+    font-size: 12px;
+    height: 15px;
+    width: 78px;
+}
+#second-part li{
+    display: flex;
+}
 #hidden{
+    display: none;
+}
+
+#hidden-auteur{
+    display: none;
+}
+#hidden-editor{
+    display: none;
+}
+#hidden-productor{
+    display: none;
+}
+#hidden-library{
+    display: none;
+}
+#hidden-tecnicien{
+    display: none;
+}
+#hidden-beginner{
     display: none;
 }
